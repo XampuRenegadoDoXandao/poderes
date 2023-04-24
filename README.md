@@ -1,6 +1,6 @@
 ## Trabalho sobre Poderes
 
-![image](docs/img/1.png)
+![image](docs/img/poder ideológico e poder político.png)
 ![image](docs/img/2.png)
 ![image](docs/img/3.png)
 ![image](docs/img/4.png)
